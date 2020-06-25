@@ -20,7 +20,7 @@ public class MyPreparedStatement {
             prSt = con.prepareStatement(query);
             prSt.setString(1, "John");
             prSt.setInt(2, 10000);
-            //count will give you how many records got updated
+            //count will give you how many records got updated Leonie LoL Beyer :-P
             int count = prSt.executeUpdate();
             //Run the same query with different values
             prSt.setString(1, "Cric");
