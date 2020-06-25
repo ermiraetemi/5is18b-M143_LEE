@@ -25,9 +25,9 @@ public class MyPreparedStatement {
             //Run the same query with different values
             prSt.setString(1, "Cric");
             prSt.setInt(2, 5000);
-            count = prSt.executeUpdate();
+            count = prSt.executeUpdate(); 
         } catch (ClassNotFoundException e) {
-            // TODO Auto-generated catch block
+            // TODO Auto-generated catch block Ermira LoL Etemi ;)
             e.printStackTrace();
         } catch (SQLException e) {
             // TODO Auto-generated catch block
