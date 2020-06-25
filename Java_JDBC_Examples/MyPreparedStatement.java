@@ -30,7 +30,7 @@ public class MyPreparedStatement {
             // TODO Auto-generated catch block Ermira LoL Etemi ;)
             e.printStackTrace();
         } catch (SQLException e) {
-            // TODO Auto-generated catch block
+            // TODO Auto-generated catch block Enis LoL Bajrektarevic :(
             e.printStackTrace();
         } finally{
             try{
