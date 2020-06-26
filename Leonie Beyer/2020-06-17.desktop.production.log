@@ -1,0 +1,115 @@
+2020-06-17T06:54:33.400Z - info: [ui] [AppStore] loading 0 repositories from store
+2020-06-17T06:54:33.402Z - info: [ui] [AppStore] found account: caddywoof (caddywoof)
+2020-06-17T06:54:34.835Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-17T06:54:34.837Z - info: [ui] execPath: 'C:\Users\Default.DESKTOP-BKTR2EP\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-17T06:54:36.677Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 2.808s)
+2020-06-17T06:54:46.063Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/caddywoof/5is18b_LeonieBeyer.git - caddywoof (has token)
+2020-06-17T06:54:55.417Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/caddywoof/5is18b_LeonieBeyer.git C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b_LeonieBeyer (took 9.025s)
+2020-06-17T06:54:55.562Z - info: [ui] [AppStore] adding repository at C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b_LeonieBeyer to store
+2020-06-17T06:54:56.914Z - info: [ui] Executing isUsingLFS: git lfs track (took 1.169s)
+2020-06-17T06:54:58.360Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-17T06:56:34.438Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b_LeonieBeyer - caddywoof (has token)
+2020-06-17T06:56:36.780Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.100s)
+2020-06-17T07:22:12.066Z - warn: [ui] getFetchPollInterval: failed for caddywoof/5is18b_LeonieBeyer
+TypeError: Failed to fetch
+2020-06-17T07:46:15.213Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b_LeonieBeyer - caddywoof (has token)
+2020-06-17T07:46:17.743Z - info: [ui] [Timing] Action 'create branch' for 'caddywoof/5is18b_LeonieBeyer' took 2.830s
+2020-06-17T07:56:40.127Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b_LeonieBeyer - caddywoof (has token)
+2020-06-17T07:56:42.349Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.960s)
+2020-06-17T08:11:25.011Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-17T08:11:25.015Z - info: [ui] [AppStore] found account: caddywoof (caddywoof)
+2020-06-17T08:11:26.113Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-17T08:11:29.104Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-17T08:11:29.105Z - info: [ui] execPath: 'C:\Users\Default.DESKTOP-BKTR2EP\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-17T08:11:29.121Z - info: [ui] Executing getConfigValueInPath: git config -z pull.rebase (took 1.463s)
+2020-06-17T08:11:29.123Z - info: [ui] Executing getCommits: git log HEAD --date=raw --max-count=100 --pretty=%H%x1F%h%x1F%s%x1F%b%x1F%an <%ae> %ad%x1F%cn <%ce> %cd%x1F%P%x1F%(trailers:unfold,only)%x1F%D -z --no-show-signature --no-color --not --remotes -- (took 1.447s)
+2020-06-17T08:11:29.126Z - info: [ui] Executing getRecentBranches: git log -g --no-abbrev-commit --pretty=oneline HEAD -n 2500 -- (took 1.528s)
+2020-06-17T08:11:29.292Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.226s)
+2020-06-17T08:11:29.293Z - info: [ui] Executing getStashEntries: git log -g -z --pretty=%gD%x1F%H%x1F%gs refs/stash (took 1.572s)
+2020-06-17T08:11:29.294Z - info: [ui] Executing getAuthorIdentity: git var GIT_AUTHOR_IDENT (took 1.529s)
+2020-06-17T08:11:29.295Z - info: [ui] Executing getRemotes: git remote -v (took 1.596s)
+2020-06-17T08:12:36.786Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b_LeonieBeyer - caddywoof (has token)
+2020-06-17T08:12:37.206Z - error: [ui] `git -c credential.helper= -c protocol.version=2 checkout --progress origin/development -b development --` exited with an unexpected code: 128.
+stderr:
+fatal: A branch named 'development' already exists.
+
+(The error was parsed as 26: A branch with that name already exists.)
+2020-06-17T08:12:37.867Z - info: [ui] [Timing] Action 'checkout branch from list' for 'caddywoof/5is18b_LeonieBeyer' took 1.073s
+2020-06-17T08:25:00.467Z - info: [main] Received possible protocol arguments: 3
+2020-06-17T08:25:00.468Z - error: [main] Malformed launch arguments received: C:\Users\Default.DESKTOP-BKTR2EP\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe,--allow-file-access-from-files,--original-process-start-time=13236855900068970
+2020-06-17T08:25:10.841Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b_LeonieBeyer - caddywoof (has token)
+2020-06-17T08:25:14.112Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin development --set-upstream --progress (took 3.152s)
+2020-06-17T08:25:14.122Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin development --set-upstream --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/caddywoof/5is18b_LeonieBeyer.git
+ ! [rejected]        development -> development (fetch first)
+error: failed to push some refs to 'https://github.com/caddywoof/5is18b_LeonieBeyer.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-17T08:25:21.630Z - info: [main] opening in browser: https://github.com/caddywoof/5is18b_LeonieBeyer
+2020-06-17T08:25:33.608Z - info: [ui] Executing getStashEntries: git log -g -z --pretty=%gD%x1F%H%x1F%gs refs/stash (took 1.012s)
+2020-06-17T08:25:33.638Z - info: [ui] Executing getRemotes: git remote -v (took 1.058s)
+2020-06-17T08:25:33.660Z - info: [ui] Executing getAuthorIdentity: git var GIT_AUTHOR_IDENT (took 1.043s)
+2020-06-17T08:26:24.836Z - info: [main] opening in browser: https://github.com/caddywoof/5is18b_LeonieBeyer
+2020-06-17T08:27:08.523Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.241s)
+2020-06-17T08:47:02.995Z - info: [main] Received possible protocol arguments: 3
+2020-06-17T08:47:03.001Z - info: [main] Processing protocol url
+2020-06-17T08:47:05.886Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-17T08:47:05.887Z - info: [ui] [AppStore] found account: caddywoof (caddywoof)
+2020-06-17T08:47:07.546Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-17T08:47:08.894Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-17T08:47:08.895Z - info: [ui] execPath: 'C:\Users\Default.DESKTOP-BKTR2EP\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-17T08:47:09.203Z - info: [ui] Executing getCommits: git log dff52dc7f5184ed07ce1e2f6b99662fc22d1573c --date=raw --max-count=1 --pretty=%H%x1F%h%x1F%s%x1F%b%x1F%an <%ae> %ad%x1F%cn <%ce> %cd%x1F%P%x1F%(trailers:unfold,only)%x1F%D -z --no-show-signature --no-color -- (took 1.052s)
+2020-06-17T08:47:09.255Z - info: [ui] Executing getRemotes: git remote -v (took 1.001s)
+2020-06-17T08:47:09.404Z - info: [ui] Executing getBranches: git for-each-ref --format=%(refname)%00%(refname:short)%00%(upstream:short)%00%(objectname)%00%(objectname:short)%00%(author)%00%(committer)%00%(symref)%00%1F refs/heads refs/remotes (took 1.035s)
+2020-06-17T08:47:10.312Z - info: [ui] Executing getConfigValueInPath: git config -z trailer.separators (took 1.110s)
+2020-06-17T08:47:10.393Z - info: [ui] Executing getCommits: git log dff52dc7f5184ed07ce1e2f6b99662fc22d1573c --date=raw --max-count=1 --pretty=%H%x1F%h%x1F%s%x1F%b%x1F%an <%ae> %ad%x1F%cn <%ce> %cd%x1F%P%x1F%(trailers:unfold,only)%x1F%D -z --no-show-signature --no-color -- (took 1.136s)
+2020-06-17T08:47:10.437Z - info: [ui] Executing getCommits: git log HEAD --date=raw --max-count=100 --pretty=%H%x1F%h%x1F%s%x1F%b%x1F%an <%ae> %ad%x1F%cn <%ce> %cd%x1F%P%x1F%(trailers:unfold,only)%x1F%D -z --no-show-signature --no-color --not --remotes -- (took 1.010s)
+2020-06-17T08:47:10.441Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.220s)
+2020-06-17T08:47:10.671Z - info: [ui] Executing getRemotes: git remote -v (took 1.230s)
+2020-06-17T08:47:11.960Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 3.128s)
+2020-06-17T08:47:12.094Z - info: [ui] Executing getAuthorIdentity: git var GIT_AUTHOR_IDENT (took 1.058s)
+2020-06-17T08:47:12.195Z - info: [ui] Executing getConfigValueInPath: git config -z pull.rebase (took 1.293s)
+2020-06-17T08:47:12.279Z - info: [ui] Executing getConfigValueInPath: git config -z pull.rebase (took 1.128s)
+2020-06-17T08:47:12.522Z - info: [ui] Executing getCommits: git log HEAD --date=raw --max-count=100 --pretty=%H%x1F%h%x1F%s%x1F%b%x1F%an <%ae> %ad%x1F%cn <%ce> %cd%x1F%P%x1F%(trailers:unfold,only)%x1F%D -z --no-show-signature --no-color --not --remotes -- (took 1.334s)
+2020-06-17T08:47:12.559Z - info: [ui] Executing getBranches: git for-each-ref --format=%(refname)%00%(refname:short)%00%(upstream:short)%00%(objectname)%00%(objectname:short)%00%(author)%00%(committer)%00%(symref)%00%1F refs/heads refs/remotes (took 1.228s)
+2020-06-17T08:47:12.798Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 4.705s)
+2020-06-17T08:47:12.867Z - info: [ui] Executing getConfigValueInPath: git config -z pull.rebase (took 1.085s)
+2020-06-17T08:47:12.870Z - info: [ui] Executing getStashEntries: git log -g -z --pretty=%gD%x1F%H%x1F%gs refs/stash (took 1.013s)
+2020-06-17T08:47:12.872Z - info: [ui] Executing getCommits: git log HEAD --date=raw --max-count=100 --pretty=%H%x1F%h%x1F%s%x1F%b%x1F%an <%ae> %ad%x1F%cn <%ce> %cd%x1F%P%x1F%(trailers:unfold,only)%x1F%D -z --no-show-signature --no-color --not --remotes -- (took 1.074s)
+2020-06-17T08:47:13.164Z - info: [ui] Executing getCommits: git log HEAD --date=raw --max-count=100 --pretty=%H%x1F%h%x1F%s%x1F%b%x1F%an <%ae> %ad%x1F%cn <%ce> %cd%x1F%P%x1F%(trailers:unfold,only)%x1F%D -z --no-show-signature --no-color -- (took 1.529s)
+2020-06-17T08:47:19.130Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b_LeonieBeyer - caddywoof (has token)
+2020-06-17T08:47:22.021Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin development --set-upstream --progress (took 2.567s)
+2020-06-17T08:47:22.027Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin development --set-upstream --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/caddywoof/5is18b_LeonieBeyer.git
+ ! [rejected]        development -> development (non-fast-forward)
+error: failed to push some refs to 'https://github.com/caddywoof/5is18b_LeonieBeyer.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-17T08:47:31.417Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b_LeonieBeyer - caddywoof (has token)
+2020-06-17T08:47:33.185Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.618s)
+2020-06-17T09:09:10.570Z - warn: [ui] getFetchPollInterval: failed for caddywoof/5is18b_LeonieBeyer
+TypeError: Failed to fetch
+2020-06-17T09:39:39.155Z - warn: [ui] fetchRepository: an error occurred for 'caddywoof/5is18b_LeonieBeyer'
+TypeError: Failed to fetch
+2020-06-17T09:39:39.167Z - warn: [ui] fetchRepository: an error occurred for 'caddywoof/5is18b_LeonieBeyer'
+TypeError: Failed to fetch
+2020-06-17T09:39:39.168Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b_LeonieBeyer - caddywoof (has token)
+2020-06-17T09:39:43.762Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.472s)
+2020-06-17T09:39:43.771Z - info: [ui] [fetchPushControl] unable to check if branch is potentially pushable
+TypeError: Failed to fetch
+2020-06-17T09:57:37.558Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-17T09:57:40.822Z - info: [main] opening in browser: https://help.github.com/articles/set-up-git/#setting-up-git
+2020-06-17T09:57:54.987Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-17T09:57:55.967Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-17T09:57:56.166Z - info: [ui] calling captureCommandOutput(where git)

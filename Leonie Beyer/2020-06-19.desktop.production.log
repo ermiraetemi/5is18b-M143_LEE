@@ -1,0 +1,116 @@
+2020-06-19T13:02:00.504Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-19T13:02:00.507Z - info: [ui] [AppStore] found account: caddywoof (caddywoof)
+2020-06-19T13:02:00.859Z - info: [ui] [fetchProtectedBranches] unable to list protected branches
+TypeError: Failed to fetch
+2020-06-19T13:02:00.885Z - warn: [ui] fetchAccount: failed with endpoint https://api.github.com
+TypeError: Failed to fetch
+2020-06-19T13:02:00.886Z - warn: [ui] fetchUser: failed with endpoint https://api.github.com
+TypeError: Failed to fetch
+2020-06-19T13:02:00.886Z - warn: [ui] Error refreshing account 'caddywoof'
+TypeError: Failed to fetch
+2020-06-19T13:02:01.641Z - info: [ui] Executing getAllTags: git show-ref --tags -d (took 1.119s)
+2020-06-19T13:02:01.688Z - warn: [ui] fetchMentionables: failed for caddywoof/5is18b_LeonieBeyer
+TypeError: Failed to fetch
+2020-06-19T13:02:01.761Z - warn: [ui] fetchIssues: failed for repository caddywoof/5is18b_LeonieBeyer
+TypeError: Failed to fetch
+2020-06-19T13:02:01.762Z - warn: [ui] Unable to fetch issues for caddywoof/5is18b_LeonieBeyer
+TypeError: Failed to fetch
+2020-06-19T13:02:01.821Z - warn: [ui] fetchRepository: an error occurred for 'caddywoof/5is18b_LeonieBeyer'
+TypeError: Failed to fetch
+2020-06-19T13:02:01.951Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-19T13:02:01.952Z - info: [ui] execPath: 'C:\Users\Default.DESKTOP-BKTR2EP\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T13:02:02.686Z - warn: [ui] failed fetching open PRs for repository caddywoof/5is18b_LeonieBeyer
+TypeError: Failed to fetch
+2020-06-19T13:02:02.686Z - error: [ui] Error refreshing pull requests for 'caddywoof/5is18b_LeonieBeyer'
+TypeError: Failed to fetch
+2020-06-19T13:02:03.597Z - error: [ui] Error checking for updates
+Error: Command failed: 4294967295
+System.AggregateException: Mindestens ein Fehler ist aufgetreten. ---> System.Net.WebException: Der Remotename konnte nicht aufgel�st werden: 'central.github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   bei System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- Ende der Stapel�berwachung vom vorhergehenden Ort, an dem die Ausnahme ausgel�st wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Squirrel.Utility.<LogIfThrows>d__43`1.MoveNext()
+--- Ende der Stapel�berwachung vom vorhergehenden Ort, an dem die Ausnahme ausgel�st wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Squirrel.FileDownloader.<DownloadUrl>d__3.MoveNext()
+--- Ende der Stapel�berwachung vom vorhergehenden Ort, an dem die Ausnahme ausgel�st wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bei Squirrel.UpdateManager.CheckForUpdateImpl.<CheckForUpdate>d__2.MoveNext()
+--- Ende der Stapel�berwachung vom vorhergehenden Ort, an dem die Ausnahme ausgel�st wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Squirrel.UpdateManager.<CheckForUpdate>d__7.MoveNext()
+--- Ende der Stapel�berwachung vom vorhergehenden Ort, an dem die Ausnahme ausgel�st wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Squirrel.Update.Program.<CheckForUpdate>d__8.MoveNext()
+   --- Ende der internen Ausnahmestapel�berwachung ---
+   bei System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   bei System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   bei System.Threading.Tasks.Task`1.get_Result()
+   bei Squirrel.Update.Program.executeCommandLine(String[] args)
+   bei Squirrel.Update.Program.main(String[] args)
+   bei Squirrel.Update.Program.Main(String[] args)
+---> (Interne Ausnahme #0) System.Net.WebException: Der Remotename konnte nicht aufgel�st werden: 'central.github.com'
+   bei System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   bei System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   bei System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- Ende der Stapel�berwachung vom vorhergehenden Ort, an dem die Ausnahme ausgel�st wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Squirrel.Utility.<LogIfThrows>d__43`1.MoveNext()
+--- Ende der Stapel�berwachung vom vorhergehenden Ort, an dem die Ausnahme ausgel�st wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Squirrel.FileDownloader.<DownloadUrl>d__3.MoveNext()
+--- Ende der Stapel�berwachung vom vorhergehenden Ort, an dem die Ausnahme ausgel�st wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   bei Squirrel.UpdateManager.CheckForUpdateImpl.<CheckForUpdate>d__2.MoveNext()
+--- Ende der Stapel�berwachung vom vorhergehenden Ort, an dem die Ausnahme ausgel�st wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Squirrel.UpdateManager.<CheckForUpdate>d__7.MoveNext()
+--- Ende der Stapel�berwachung vom vorhergehenden Ort, an dem die Ausnahme ausgel�st wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Squirrel.Update.Program.<CheckForUpdate>d__8.MoveNext()<---
+
+
+    at AutoUpdater.emitError (electron/js2c/browser_init.js:324:24)
+    at electron/js2c/browser_init.js:300:21
+    at electron/js2c/browser_init.js:431:14
+    at ChildProcess.<anonymous> (electron/js2c/browser_init.js:413:14)
+    at ChildProcess.emit (events.js:203:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:272:12)
+2020-06-19T13:02:04.151Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 2.241s)
+2020-06-19T13:02:16.573Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.348s)
+2020-06-19T13:02:16.584Z - error: [ui] `git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+fatal: unable to access 'https://github.com/caddywoof/5is18b_LeonieBeyer.git/': Could not resolve host: github.com
+
+2020-06-19T13:02:16.613Z - info: [ui] [fetchPushControl] unable to check if branch is potentially pushable
+TypeError: Failed to fetch
+2020-06-19T13:02:17.277Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-19T13:02:17.578Z - warn: [ui] getFetchPollInterval: failed for caddywoof/5is18b_LeonieBeyer
+TypeError: Failed to fetch
+2020-06-19T13:02:19.244Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-19T13:02:19.500Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-19T13:02:26.797Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-19T13:02:28.970Z - info: [main] opening in browser: https://help.github.com/articles/set-up-git/#setting-up-git
+2020-06-19T13:04:01.546Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b_LeonieBeyer - caddywoof (has token)
+2020-06-19T13:04:04.431Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.621s)
+2020-06-19T13:05:48.545Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-19T13:05:48.547Z - info: [ui] [AppStore] found account: caddywoof (caddywoof)
+2020-06-19T13:05:48.990Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-19T13:05:49.578Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-19T13:05:49.579Z - info: [ui] execPath: 'C:\Users\Default.DESKTOP-BKTR2EP\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T13:05:59.051Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-19T13:05:59.208Z - info: [ui] calling captureCommandOutput(where git)

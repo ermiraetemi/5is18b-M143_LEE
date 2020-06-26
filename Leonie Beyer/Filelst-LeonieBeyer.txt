@@ -1,0 +1,346 @@
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: EAD5-A5E0
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30    <DIR>          EnisBajrektarevic
+26.06.2020  15:30    <DIR>          ErmiraEtemi
+26.06.2020  15:30                 0 Filelst-LeonieBeyer.txt
+26.06.2020  15:30    <DIR>          Java_File_IO_Examples
+26.06.2020  15:30    <DIR>          Java_JDBC_Examples
+26.06.2020  15:30    <DIR>          Java_Sort_Examples
+25.06.2020  20:45                48 MemberList.txt
+               2 Datei(en),             48 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git
+
+26.06.2020  15:25                19 COMMIT_EDITMSG
+25.06.2020  20:45               337 config
+25.06.2020  20:45                73 description
+26.06.2020  15:27             1'741 FETCH_HEAD
+26.06.2020  15:30                23 HEAD
+25.06.2020  20:45    <DIR>          hooks
+26.06.2020  15:30             6'902 index
+25.06.2020  20:45    <DIR>          info
+25.06.2020  20:45    <DIR>          logs
+26.06.2020  15:25    <DIR>          objects
+25.06.2020  20:45               114 packed-refs
+25.06.2020  20:45    <DIR>          refs
+               7 Datei(en),          9'209 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\hooks
+
+25.06.2020  20:45    <DIR>          .
+25.06.2020  20:45    <DIR>          ..
+25.06.2020  20:45               478 applypatch-msg.sample
+25.06.2020  20:45               896 commit-msg.sample
+25.06.2020  20:45             3'327 fsmonitor-watchman.sample
+25.06.2020  20:45               189 post-update.sample
+25.06.2020  20:45               424 pre-applypatch.sample
+25.06.2020  20:45             1'638 pre-commit.sample
+25.06.2020  20:45             1'348 pre-push.sample
+25.06.2020  20:45             4'898 pre-rebase.sample
+25.06.2020  20:45               544 pre-receive.sample
+25.06.2020  20:45             1'492 prepare-commit-msg.sample
+25.06.2020  20:45             3'610 update.sample
+              11 Datei(en),         18'844 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\info
+
+25.06.2020  20:45    <DIR>          .
+25.06.2020  20:45    <DIR>          ..
+25.06.2020  20:45               240 exclude
+               1 Datei(en),            240 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\logs
+
+25.06.2020  20:45    <DIR>          .
+25.06.2020  20:45    <DIR>          ..
+26.06.2020  15:30             1'109 HEAD
+25.06.2020  20:45    <DIR>          refs
+               1 Datei(en),          1'109 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\logs\refs
+
+25.06.2020  20:45    <DIR>          .
+25.06.2020  20:45    <DIR>          ..
+25.06.2020  20:48    <DIR>          heads
+25.06.2020  20:45    <DIR>          remotes
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\logs\refs\heads
+
+25.06.2020  20:48    <DIR>          .
+25.06.2020  20:48    <DIR>          ..
+26.06.2020  15:25               318 Java_File_IO_Examples
+26.06.2020  15:22               352 master
+               2 Datei(en),            670 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\logs\refs\remotes
+
+25.06.2020  20:45    <DIR>          .
+25.06.2020  20:45    <DIR>          ..
+26.06.2020  15:22    <DIR>          origin
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\logs\refs\remotes\origin
+
+26.06.2020  15:22    <DIR>          .
+26.06.2020  15:22    <DIR>          ..
+25.06.2020  20:45               198 HEAD
+26.06.2020  15:22               181 Java_File_IO_Examples
+26.06.2020  15:22               181 Java_File_IO_Examples2
+26.06.2020  15:22               181 Java_JDBC_Examples
+26.06.2020  15:22               181 Java_JDBC_Examples2
+26.06.2020  15:22               181 Java_JDBC_ExamplesEB
+26.06.2020  15:22               181 Java_JDBC_ExamplesEB2
+26.06.2020  15:22               181 Java_JDBC_ExamplesEE
+26.06.2020  15:22               181 Java_JDBC_ExamplesEE2
+26.06.2020  15:22               181 Java_JDBC_ExamplesLB
+26.06.2020  15:22               181 Java_JDBC_ExamplesLB2
+26.06.2020  15:22               181 Java_Sort_Examples
+26.06.2020  15:22               181 Java_Sort_Examples2
+26.06.2020  15:22               181 master
+              14 Datei(en),          2'551 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects
+
+26.06.2020  15:25    <DIR>          .
+26.06.2020  15:25    <DIR>          ..
+26.06.2020  15:25    <DIR>          1e
+26.06.2020  15:25    <DIR>          29
+26.06.2020  15:25    <DIR>          36
+26.06.2020  15:25    <DIR>          56
+26.06.2020  15:25    <DIR>          94
+26.06.2020  15:25    <DIR>          b9
+26.06.2020  15:25    <DIR>          d4
+26.06.2020  15:25    <DIR>          de
+26.06.2020  15:25    <DIR>          e6
+25.06.2020  20:45    <DIR>          info
+26.06.2020  15:22    <DIR>          pack
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects\1e
+
+26.06.2020  15:25    <DIR>          .
+26.06.2020  15:25    <DIR>          ..
+26.06.2020  15:25               991 2917298848e29e946bd522b0d077ae76b674bb
+               1 Datei(en),            991 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects\29
+
+26.06.2020  15:25    <DIR>          .
+26.06.2020  15:25    <DIR>          ..
+26.06.2020  15:25             2'983 b04254106a811acb50296d4bf31b352a232016
+               1 Datei(en),          2'983 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects\36
+
+26.06.2020  15:25    <DIR>          .
+26.06.2020  15:25    <DIR>          ..
+26.06.2020  15:25               441 22419c5b3735dcb50848cb030e0e4c2cb48990
+               1 Datei(en),            441 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects\56
+
+26.06.2020  15:25    <DIR>          .
+26.06.2020  15:25    <DIR>          ..
+26.06.2020  15:25             1'047 9e096dd475dbc0b9447a45fb48958cf86f1819
+               1 Datei(en),          1'047 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects\94
+
+26.06.2020  15:25    <DIR>          .
+26.06.2020  15:25    <DIR>          ..
+26.06.2020  15:25               100 953b0180d92aa667af9cb4499980a5f774d5fa
+               1 Datei(en),            100 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects\b9
+
+26.06.2020  15:25    <DIR>          .
+26.06.2020  15:25    <DIR>          ..
+26.06.2020  15:25               232 f0d732bd3730b4d4518918cfcaf2e76a3b571d
+               1 Datei(en),            232 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects\d4
+
+26.06.2020  15:25    <DIR>          .
+26.06.2020  15:25    <DIR>          ..
+26.06.2020  15:25               165 e18170d0e6a0945dae46d4fdc8d2292c8ed3a2
+               1 Datei(en),            165 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects\de
+
+26.06.2020  15:25    <DIR>          .
+26.06.2020  15:25    <DIR>          ..
+26.06.2020  15:25             2'077 11770e599c935e32527fbb41621e0d92eca7c9
+               1 Datei(en),          2'077 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects\e6
+
+26.06.2020  15:25    <DIR>          .
+26.06.2020  15:25    <DIR>          ..
+26.06.2020  15:25             1'248 37b7ce10fe5e068f819f4572029de161f9a6f1
+               1 Datei(en),          1'248 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects\info
+
+25.06.2020  20:45    <DIR>          .
+25.06.2020  20:45    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\objects\pack
+
+26.06.2020  15:22    <DIR>          .
+26.06.2020  15:22    <DIR>          ..
+25.06.2020  20:45             1'184 pack-7d0ab32c8d86d2d5f16f428b533a437302a85d9e.idx
+25.06.2020  20:45             1'257 pack-7d0ab32c8d86d2d5f16f428b533a437302a85d9e.pack
+26.06.2020  15:22             4'684 pack-8252b6566580a2dec5f2236f8689718a39b6cdb9.idx
+26.06.2020  15:22            49'766 pack-8252b6566580a2dec5f2236f8689718a39b6cdb9.pack
+               4 Datei(en),         56'891 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\refs
+
+25.06.2020  20:45    <DIR>          .
+25.06.2020  20:45    <DIR>          ..
+26.06.2020  15:25    <DIR>          heads
+25.06.2020  20:45    <DIR>          remotes
+25.06.2020  20:45    <DIR>          tags
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\refs\heads
+
+26.06.2020  15:25    <DIR>          .
+26.06.2020  15:25    <DIR>          ..
+26.06.2020  15:25                41 Java_File_IO_Examples
+26.06.2020  15:22                41 master
+               2 Datei(en),             82 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\refs\remotes
+
+25.06.2020  20:45    <DIR>          .
+25.06.2020  20:45    <DIR>          ..
+26.06.2020  15:22    <DIR>          origin
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\refs\remotes\origin
+
+26.06.2020  15:22    <DIR>          .
+26.06.2020  15:22    <DIR>          ..
+25.06.2020  20:45                32 HEAD
+26.06.2020  15:22                41 Java_File_IO_Examples
+26.06.2020  15:22                41 Java_File_IO_Examples2
+26.06.2020  15:22                41 Java_JDBC_Examples
+26.06.2020  15:22                41 Java_JDBC_Examples2
+26.06.2020  15:22                41 Java_JDBC_ExamplesEB
+26.06.2020  15:22                41 Java_JDBC_ExamplesEB2
+26.06.2020  15:22                41 Java_JDBC_ExamplesEE
+26.06.2020  15:22                41 Java_JDBC_ExamplesEE2
+26.06.2020  15:22                41 Java_JDBC_ExamplesLB
+26.06.2020  15:22                41 Java_JDBC_ExamplesLB2
+26.06.2020  15:22                41 Java_Sort_Examples
+26.06.2020  15:22                41 Java_Sort_Examples2
+26.06.2020  15:22                41 master
+              14 Datei(en),            565 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\.git\refs\tags
+
+25.06.2020  20:45    <DIR>          .
+25.06.2020  20:45    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\EnisBajrektarevic
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30            11'061 2020-06-25.desktop.production.log
+26.06.2020  15:30               996 2020-06-26.desktop.production.log
+26.06.2020  15:30            40'670 FileList-EnisBajrektarevic.txt
+               3 Datei(en),         52'727 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\ErmiraEtemi
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30             5'171 2020-06-19.desktop.production.log
+26.06.2020  15:30            11'151 2020-06-25.desktop.production.log
+26.06.2020  15:30             1'513 2020-06-26.desktop.production.log
+26.06.2020  15:30            44'526 MeineFileliste-ErmiraEtemi.txt
+               4 Datei(en),         62'361 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\Java_File_IO_Examples
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30             1'233 @README.txt
+26.06.2020  15:30               838 ByteArrToInputStream.java
+26.06.2020  15:30             1'055 ByteWriteToFile.java
+26.06.2020  15:30               601 ClassLoaderFileLoading.java
+26.06.2020  15:30               327 FileListFromFolder.java
+26.06.2020  15:30               328 FilesListFromFolder.java
+26.06.2020  15:30             1'005 FileToByteArray.java
+26.06.2020  15:30             1'056 MyByteArrayToReader.java
+26.06.2020  15:30               655 MyFileFilter.java
+26.06.2020  15:30               262 MyFileLastModified.java
+26.06.2020  15:30             1'318 MyFileOperations.java
+26.06.2020  15:30               855 MyFilePermissions.java
+26.06.2020  15:30             1'021 MyFileReadBybis.java
+26.06.2020  15:30               230 MyFileUrl.java
+26.06.2020  15:30               796 MyFileXmlStore.java
+26.06.2020  15:30               678 MyFilteredFileList.java
+26.06.2020  15:30               943 MyIstoBr.java
+26.06.2020  15:30             2'817 MyObjectFileStore.java
+26.06.2020  15:30               799 MyPropertyFileStore.java
+26.06.2020  15:30             1'180 MyTempDelete.java
+26.06.2020  15:30               836 MyTempFileWrite.java
+26.06.2020  15:30               513 MyTmpFile.java
+26.06.2020  15:30               828 ReadFromConsole.java
+26.06.2020  15:30               748 ReadLinesFromFile.java
+26.06.2020  15:30             1'067 WriteToFile.java
+              25 Datei(en),         21'989 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\Java_JDBC_Examples
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30             1'611 @README.txt
+26.06.2020  15:30               248 @README2.txt
+26.06.2020  15:30               849 JdbcConnection.java
+26.06.2020  15:30             1'639 MyAutoGeneratedKeys.java
+26.06.2020  15:30             1'350 MyBatchCallableStatement.java
+26.06.2020  15:30             1'733 MyBatchPreparedStmt.java
+26.06.2020  15:30             1'635 MyBlobInsert.java
+26.06.2020  15:30             2'176 MyBlobRead.java
+26.06.2020  15:30               806 MyConnWithProperties.java
+26.06.2020  15:30             1'487 MyCursorCallableStmt.java
+26.06.2020  15:30             1'239 MyDatabaseMetadata.java
+26.06.2020  15:30             1'658 MyExecuteMethod.java
+26.06.2020  15:30             1'443 MyFunctionCallableStmt.java
+26.06.2020  15:30             1'446 MyOutparmCallableStmt.java
+26.06.2020  15:30             1'552 MyPreparedStatement.java
+26.06.2020  15:30             1'656 MyPrepStmtResltSet.java
+26.06.2020  15:30             1'291 MyQueryUpdate.java
+26.06.2020  15:30             1'194 MyResultSetEx.java
+26.06.2020  15:30             1'507 MyResultSetMetadata.java
+26.06.2020  15:30             1'748 MyScrollableResultSetEx.java
+26.06.2020  15:30             1'255 MySimpleCallableStatement.java
+26.06.2020  15:30             1'685 MyStatementBatchUpdate.java
+26.06.2020  15:30             1'533 MyUpdatableResultSet.java
+              23 Datei(en),         32'741 Bytes
+
+ Verzeichnis von C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE\Java_Sort_Examples
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30             1'044 MyBubbleSort.java
+26.06.2020  15:30               748 MyInsertionSort.java
+26.06.2020  15:30             1'904 MyMergeSort.java
+26.06.2020  15:30             2'065 MyQuickSort.java
+26.06.2020  15:30               787 MySelectionSort.java
+               5 Datei(en),          6'548 Bytes
+
+     Anzahl der angezeigten Dateien:
+             127 Datei(en),        275'859 Bytes
+              89 Verzeichnis(se), 73'531'789'312 Bytes frei

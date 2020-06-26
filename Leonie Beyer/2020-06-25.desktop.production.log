@@ -1,0 +1,27 @@
+2020-06-25T18:44:51.095Z - info: [main] Received possible protocol arguments: 3
+2020-06-25T18:44:51.098Z - info: [main] Processing protocol url
+2020-06-25T18:44:54.929Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-25T18:44:54.930Z - info: [ui] [AppStore] found account: caddywoof (caddywoof)
+2020-06-25T18:44:55.563Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-25T18:44:55.564Z - info: [ui] execPath: 'C:\Users\Default.DESKTOP-BKTR2EP\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-25T18:44:58.685Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 3.203s)
+2020-06-25T18:45:01.843Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/ermiraetemi/5is18b-M143_LEE.git - caddywoof (has token)
+2020-06-25T18:45:07.531Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE.git C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE (took 5.499s)
+2020-06-25T18:45:07.659Z - info: [ui] [AppStore] adding repository at C:\Users\Default.DESKTOP-BKTR2EP\Documents\GitHub\5is18b-M143_LEE to store
+2020-06-25T18:45:09.074Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-25T18:45:09.247Z - info: [ui] Executing isUsingLFS: git lfs track (took 1.358s)
+2020-06-25T18:45:10.882Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.465s)
+2020-06-25T18:45:12.858Z - error: [ui] `git rev-list --left-right --count dff52dc7f5184ed07ce1e2f6b99662fc22d1573c...2ca2b7e27e5ab0f7917c35b328bc66578bdc9a8c --` exited with an unexpected code: 128.
+stderr:
+fatal: Invalid symmetric difference expression dff52dc7f5184ed07ce1e2f6b99662fc22d1573c...2ca2b7e27e5ab0f7917c35b328bc66578bdc9a8c
+
+2020-06-25T18:45:21.329Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-25T18:45:22.781Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.911s)
+2020-06-25T18:46:56.202Z - info: [ui] Background fetch for 2 repositories took 1.006sec
+2020-06-25T18:48:50.050Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-25T18:48:51.146Z - info: [ui] [Timing] Action 'create branch' for 'ermiraetemi/5is18b-M143_LEE' took 1.371s
+2020-06-25T18:49:35.887Z - error: [ui] `git rev-parse --is-bare-repository` exited with an unexpected code: 128.
+stderr:
+fatal: not a git repository (or any of the parent directories): .git
+
+(The error was parsed as 28: This is not a git repository.)

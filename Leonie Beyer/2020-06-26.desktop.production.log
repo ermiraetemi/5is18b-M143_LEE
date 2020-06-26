@@ -1,0 +1,113 @@
+2020-06-26T13:21:45.060Z - info: [ui] [AppStore] loading 2 repositories from store
+2020-06-26T13:21:45.061Z - info: [ui] [AppStore] found account: caddywoof (caddywoof)
+2020-06-26T13:21:45.276Z - info: [ui] [BranchPruner] Last prune took place in 5 hours - skipping
+2020-06-26T13:21:45.887Z - info: [ui] launching: 2.5.3 (Windows 10.0.18363)
+2020-06-26T13:21:45.887Z - info: [ui] execPath: 'C:\Users\Default.DESKTOP-BKTR2EP\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe'
+2020-06-26T13:21:47.125Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.488s)
+2020-06-26T13:22:01.805Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.919s)
+2020-06-26T13:23:46.059Z - info: [ui] Background fetch for 2 repositories took 0.918sec
+2020-06-26T13:25:49.774Z - info: [ui] [Timing] Action 'create commit' for 'ermiraetemi/5is18b-M143_LEE' took 1.354s
+2020-06-26T13:25:55.553Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:25:57.114Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress (took 1.475s)
+2020-06-26T13:25:57.119Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/ermiraetemi/5is18b-M143_LEE.git
+ ! [rejected]        Java_File_IO_Examples -> Java_File_IO_Examples (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ermiraetemi/5is18b-M143_LEE.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:26:00.652Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:26:02.094Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.349s)
+2020-06-26T13:26:06.537Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:26:08.006Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress (took 1.387s)
+2020-06-26T13:26:08.006Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/ermiraetemi/5is18b-M143_LEE.git
+ ! [rejected]        Java_File_IO_Examples -> Java_File_IO_Examples (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ermiraetemi/5is18b-M143_LEE.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:26:17.901Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:26:19.824Z - info: [ui] [Timing] Action 'checkout branch from list' for 'ermiraetemi/5is18b-M143_LEE' took 1.923s
+2020-06-26T13:26:26.594Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:26:27.509Z - info: [ui] [Timing] Action 'checkout branch from list' for 'ermiraetemi/5is18b-M143_LEE' took 0.912s
+2020-06-26T13:26:30.996Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:26:32.370Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress (took 1.304s)
+2020-06-26T13:26:32.371Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/ermiraetemi/5is18b-M143_LEE.git
+ ! [rejected]        Java_File_IO_Examples -> Java_File_IO_Examples (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ermiraetemi/5is18b-M143_LEE.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:26:48.253Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:26:49.685Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress (took 1.332s)
+2020-06-26T13:26:49.686Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/ermiraetemi/5is18b-M143_LEE.git
+ ! [rejected]        Java_File_IO_Examples -> Java_File_IO_Examples (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ermiraetemi/5is18b-M143_LEE.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:26:54.664Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:26:56.065Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress (took 1.327s)
+2020-06-26T13:26:56.065Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/ermiraetemi/5is18b-M143_LEE.git
+ ! [rejected]        Java_File_IO_Examples -> Java_File_IO_Examples (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ermiraetemi/5is18b-M143_LEE.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:27:20.213Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:27:21.738Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.411s)
+2020-06-26T13:27:38.678Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:27:40.075Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress (took 1.315s)
+2020-06-26T13:27:40.076Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/ermiraetemi/5is18b-M143_LEE.git
+ ! [rejected]        Java_File_IO_Examples -> Java_File_IO_Examples (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ermiraetemi/5is18b-M143_LEE.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:27:41.846Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:27:43.280Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.346s)
+2020-06-26T13:28:21.325Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:28:22.663Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress (took 1.264s)
+2020-06-26T13:28:22.664Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin Java_File_IO_Examples --set-upstream --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/ermiraetemi/5is18b-M143_LEE.git
+ ! [rejected]        Java_File_IO_Examples -> Java_File_IO_Examples (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ermiraetemi/5is18b-M143_LEE.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:28:28.317Z - info: [main] opening in browser: https://github.com/ermiraetemi/5is18b-M143_LEE
+2020-06-26T13:30:12.594Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - caddywoof (has token)
+2020-06-26T13:30:13.663Z - info: [ui] [Timing] Action 'checkout branch from list' for 'ermiraetemi/5is18b-M143_LEE' took 1.069s
