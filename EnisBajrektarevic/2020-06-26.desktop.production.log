@@ -1,0 +1,9 @@
+2020-06-26T13:12:34.840Z - info: [ui] [AppStore] loading 2 repositories from store
+2020-06-26T13:12:34.842Z - info: [ui] [AppStore] found account: enbaj (enbaj)
+2020-06-26T13:12:35.634Z - info: [ui] [BranchPruner] Last prune took place in 6 hours - skipping
+2020-06-26T13:12:37.025Z - info: [ui] launching: 2.5.3 (Windows 10.0.17763)
+2020-06-26T13:12:37.025Z - info: [ui] execPath: 'C:\Users\Enis\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe'
+2020-06-26T13:13:06.693Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.175s)
+2020-06-26T13:14:36.132Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-EnisBajrektarevic - enbaj (has token)
+2020-06-26T13:14:37.704Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.459s)
+2020-06-26T13:14:39.049Z - info: [ui] Background fetch for 2 repositories took 4.046sec

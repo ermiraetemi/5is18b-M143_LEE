@@ -1,0 +1,110 @@
+2020-06-25T18:07:30.920Z - info: [main] Received possible protocol arguments: 2
+2020-06-25T18:07:30.922Z - error: [main] Malformed launch arguments received: C:\Users\Enis\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe,--squirrel-firstrun
+2020-06-25T18:07:31.630Z - info: [ui] [AppStore] loading 0 repositories from store
+2020-06-25T18:07:31.662Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-25T18:07:31.759Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-25T18:07:31.817Z - info: [ui] launching: 2.5.3 (Windows 10.0.17763)
+2020-06-25T18:07:31.817Z - info: [ui] execPath: 'C:\Users\Enis\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe'
+2020-06-25T18:07:32.189Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-25T18:07:32.978Z - info: [ui] Opt in reported.
+2020-06-25T18:07:36.197Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2020-06-25T18:07:36.199Z - info: [ui] [SignInStore] initializing OAuth flow
+2020-06-25T18:07:36.201Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo%20user%20workflow&state=10ab4282-693e-463c-9888-e7a872a63f59
+2020-06-25T18:07:36.201Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2020-06-25T18:07:36.251Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-25T18:07:37.906Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-25T18:08:45.862Z - info: [main] Received possible protocol arguments: 5
+2020-06-25T18:08:45.862Z - info: [main] Processing protocol url
+2020-06-25T18:08:45.872Z - info: [ui] [Dispatcher] requesting authenticated user
+2020-06-25T18:08:45.876Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-25T18:08:46.015Z - info: [main] Received possible protocol arguments: 3
+2020-06-25T18:08:46.016Z - info: [main] Processing protocol url
+2020-06-25T18:08:47.771Z - info: [ui] [SignInStore] account resolved
+2020-06-25T18:08:47.772Z - info: [ui] [AppStore] adding account enbaj (enbaj) to store
+2020-06-25T18:08:47.779Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2020-06-25T18:08:47.832Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-25T18:08:48.058Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-25T18:08:53.313Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-25T18:08:55.424Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-25T18:09:03.515Z - info: [ui] [Welcome] advancing to step: UsageOptOut
+2020-06-25T18:09:07.854Z - info: [ui] Opt in reported.
+2020-06-25T18:09:23.009Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/enbaj/5is18b-EnisBajrektarevic.git - enbaj (has token)
+2020-06-25T18:09:26.428Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/enbaj/5is18b-EnisBajrektarevic.git C:\Users\Enis\Documents\GitHub\5is18b-EnisBajrektarevic (took 3.330s)
+2020-06-25T18:09:26.515Z - info: [ui] [AppStore] adding repository at C:\Users\Enis\Documents\GitHub\5is18b-EnisBajrektarevic to store
+2020-06-25T18:09:31.795Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-EnisBajrektarevic - enbaj (has token)
+2020-06-25T18:09:33.371Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.478s)
+2020-06-25T18:35:46.770Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-EnisBajrektarevic - enbaj (has token)
+2020-06-25T18:35:50.509Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.588s)
+2020-06-25T18:36:07.549Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-EnisBajrektarevic - enbaj (has token)
+2020-06-25T18:36:08.971Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.354s)
+2020-06-25T18:36:15.265Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-EnisBajrektarevic - enbaj (has token)
+2020-06-25T18:36:16.760Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.365s)
+2020-06-25T18:36:19.687Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-EnisBajrektarevic - enbaj (has token)
+2020-06-25T18:36:21.115Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.351s)
+2020-06-25T18:36:37.174Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-EnisBajrektarevic - enbaj (has token)
+2020-06-25T18:36:38.644Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.396s)
+2020-06-25T18:37:44.413Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-25T18:37:44.414Z - info: [ui] [AppStore] found account: enbaj (enbaj)
+2020-06-25T18:37:44.751Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-25T18:37:45.802Z - info: [ui] launching: 2.5.3 (Windows 10.0.17763)
+2020-06-25T18:37:45.802Z - info: [ui] execPath: 'C:\Users\Enis\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe'
+2020-06-25T18:37:46.912Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.134s)
+2020-06-25T18:37:48.627Z - info: [ui] Stats reported.
+2020-06-25T18:38:23.993Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-EnisBajrektarevic - enbaj (has token)
+2020-06-25T18:38:25.479Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.419s)
+2020-06-25T18:39:05.055Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-EnisBajrektarevic - enbaj (has token)
+2020-06-25T18:39:08.223Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.088s)
+2020-06-25T18:39:29.465Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-25T18:39:29.466Z - info: [ui] [AppStore] found account: enbaj (enbaj)
+2020-06-25T18:39:30.323Z - info: [ui] launching: 2.5.3 (Windows 10.0.17763)
+2020-06-25T18:39:30.324Z - info: [ui] execPath: 'C:\Users\Enis\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe'
+2020-06-25T18:39:52.280Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-25T18:44:53.311Z - info: [main] Received possible protocol arguments: 5
+2020-06-25T18:44:53.311Z - info: [main] Processing protocol url
+2020-06-25T18:44:53.507Z - info: [main] Received possible protocol arguments: 3
+2020-06-25T18:44:53.511Z - info: [main] Processing protocol url
+2020-06-25T18:44:55.461Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/ermiraetemi/5is18b-M143_LEE.git - enbaj (has token)
+2020-06-25T18:44:58.241Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE.git C:\Users\Enis\Documents\GitHub\5is18b-M143_LEE (took 2.668s)
+2020-06-25T18:44:58.303Z - info: [ui] [AppStore] adding repository at C:\Users\Enis\Documents\GitHub\5is18b-M143_LEE to store
+2020-06-25T18:44:58.388Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-25T18:45:20.009Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-25T18:45:21.590Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.687s)
+2020-06-25T18:56:31.605Z - info: [ui] Background fetch for 2 repositories took 0.806sec
+2020-06-25T19:11:32.382Z - info: [ui] Background fetch for 2 repositories took 1.589sec
+2020-06-25T19:15:32.963Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.090s)
+2020-06-25T19:26:31.651Z - info: [ui] Background fetch for 2 repositories took 0.858sec
+2020-06-25T19:41:31.526Z - info: [ui] Background fetch for 2 repositories took 0.729sec
+2020-06-25T19:45:44.560Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.708s)
+2020-06-25T19:56:31.463Z - info: [ui] Background fetch for 2 repositories took 0.672sec
+2020-06-25T20:11:31.449Z - info: [ui] Background fetch for 2 repositories took 0.654sec
+2020-06-25T21:35:36.024Z - warn: [ui] fetchRepository: an error occurred for 'enbaj/5is18b-EnisBajrektarevic'
+TypeError: Failed to fetch
+2020-06-25T21:35:36.026Z - warn: [ui] fetchRepository: an error occurred for 'enbaj/5is18b-EnisBajrektarevic'
+TypeError: Failed to fetch
+2020-06-25T21:35:36.027Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-EnisBajrektarevic - enbaj (has token)
+2020-06-25T21:35:36.279Z - error: [ui] `git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+fatal: unable to access 'https://github.com/enbaj/5is18b-EnisBajrektarevic.git/': Could not resolve host: github.com
+
+2020-06-25T21:35:36.286Z - error: [ui] `git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+fatal: unable to access 'https://github.com/ermiraetemi/5is18b-M143_LEE.git/': Could not resolve host: github.com
+
+2020-06-25T21:35:36.367Z - info: [ui] [fetchPushControl] unable to check if branch is potentially pushable
+TypeError: Failed to fetch
+2020-06-25T21:35:36.375Z - info: [ui] [fetchPushControl] unable to check if branch is potentially pushable
+TypeError: Failed to fetch
+2020-06-25T21:35:36.928Z - warn: [ui] getFetchPollInterval: failed for ermiraetemi/5is18b-M143_LEE
+TypeError: Failed to fetch
+2020-06-25T21:35:37.070Z - warn: [ui] fetchRepository: an error occurred for 'ermiraetemi/5is18b-M143_LEE'
+TypeError: Failed to fetch
+2020-06-25T21:35:37.072Z - warn: [ui] fetchRepository: an error occurred for 'ermiraetemi/5is18b-M143_LEE'
+TypeError: Failed to fetch
+2020-06-25T21:35:37.073Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - enbaj (has token)
+2020-06-25T21:35:37.426Z - error: [ui] `git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin` exited with an unexpected code: 128.
+stderr:
+fatal: unable to access 'https://github.com/ermiraetemi/5is18b-M143_LEE.git/': Could not resolve host: github.com
+
+2020-06-25T21:35:37.568Z - info: [ui] [fetchPushControl] unable to check if branch is potentially pushable
+TypeError: Failed to fetch
+2020-06-25T21:35:38.216Z - info: [ui] Background fetch for 2 repositories took 2.435sec
