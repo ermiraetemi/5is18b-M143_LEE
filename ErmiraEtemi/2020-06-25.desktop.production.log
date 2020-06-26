@@ -1,0 +1,98 @@
+2020-06-25T17:36:22.501Z - info: [main] Received possible protocol arguments: 3
+2020-06-25T17:36:22.502Z - info: [main] Processing protocol url
+2020-06-25T17:36:23.776Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-25T17:36:23.777Z - info: [ui] [AppStore] found account: ermiraetemi (ermiraetemi)
+2020-06-25T17:36:25.349Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-25T17:36:25.349Z - info: [ui] execPath: 'C:\Users\ermira.etemi\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-25T17:36:25.749Z - info: [ui] Stats reported.
+2020-06-25T17:36:26.331Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.007s)
+2020-06-25T17:36:28.374Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.545s)
+2020-06-25T17:36:30.311Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/ermiraetemi/5is18b-M143_LEE.git - ermiraetemi (has token)
+2020-06-25T17:36:31.942Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE.git C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE (took 1.529s)
+2020-06-25T17:36:32.013Z - info: [ui] [AppStore] adding repository at C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE to store
+2020-06-25T17:36:32.542Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-25T17:36:35.194Z - info: [ui] Executing isUsingLFS: git lfs track (took 3.078s)
+2020-06-25T18:00:35.863Z - info: [main] Received possible protocol arguments: 2
+2020-06-25T18:00:35.865Z - error: [main] Malformed launch arguments received: C:\Users\ermira.etemi\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe,--squirrel-firstrun
+2020-06-25T18:00:36.849Z - info: [ui] [AppStore] loading 2 repositories from store
+2020-06-25T18:00:36.850Z - info: [ui] [AppStore] found account: ermiraetemi (ermiraetemi)
+2020-06-25T18:00:37.948Z - info: [ui] launching: 2.5.3 (Windows 10.0.18363)
+2020-06-25T18:00:37.948Z - info: [ui] execPath: 'C:\Users\ermira.etemi\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe'
+2020-06-25T18:00:39.763Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 2.315s)
+2020-06-25T18:00:55.280Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.389s)
+2020-06-25T18:01:31.476Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-25T18:02:37.801Z - info: [ui] Background fetch for 2 repositories took 0.773sec
+2020-06-25T18:17:38.696Z - info: [ui] Background fetch for 2 repositories took 0.884sec
+2020-06-25T18:18:34.924Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-25T18:22:01.636Z - info: [main] Received possible protocol arguments: 5
+2020-06-25T18:22:01.637Z - info: [main] Processing protocol url
+2020-06-25T18:22:02.152Z - info: [main] Received possible protocol arguments: 3
+2020-06-25T18:22:02.159Z - info: [main] Processing protocol url
+2020-06-25T18:22:43.482Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-25T18:22:44.870Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.651s)
+2020-06-25T18:22:48.944Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-25T18:23:46.587Z - info: [ui] [AppStore.getAccountForRemoteURL] no generic credentials found for 'https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt'
+2020-06-25T18:23:47.707Z - info: [ui] Executing clone: git -c credential.helper= clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt (took 1.096s)
+2020-06-25T18:23:47.709Z - error: [ui] `git -c credential.helper= clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt` exited with an unexpected code: 128.
+stderr:
+Cloning into 'C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt'...
+fatal: repository 'https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt/' not found
+
+(The error was parsed as 8: The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.)
+2020-06-25T18:24:06.874Z - info: [ui] storing generic credentials for 'github.com/ermiraetemi/5is18b-M143_LEE/blob' and 'ermiraetemi'
+2020-06-25T18:24:06.884Z - info: [ui] [AppStore.getAccountForRemoteURL] found generic credentials for 'github.com/ermiraetemi/5is18b-M143_LEE/blob' and 'ermiraetemi'
+2020-06-25T18:24:08.322Z - info: [ui] Executing clone: git -c credential.helper= clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt (took 1.431s)
+2020-06-25T18:24:08.323Z - error: [ui] `git -c credential.helper= clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt` exited with an unexpected code: 128.
+stderr:
+Cloning into 'C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt'...
+fatal: repository 'https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt/' not found
+
+(The error was parsed as 8: The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.)
+2020-06-25T18:24:24.076Z - info: [ui] storing generic credentials for 'github.com/ermiraetemi/5is18b-M143_LEE/blob' and 'ermiraetemi'
+2020-06-25T18:24:24.086Z - info: [ui] [AppStore.getAccountForRemoteURL] found generic credentials for 'github.com/ermiraetemi/5is18b-M143_LEE/blob' and 'ermiraetemi'
+2020-06-25T18:24:25.166Z - info: [ui] Executing clone: git -c credential.helper= clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt (took 1.065s)
+2020-06-25T18:24:25.167Z - error: [ui] `git -c credential.helper= clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt` exited with an unexpected code: 128.
+stderr:
+Cloning into 'C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt'...
+fatal: repository 'https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt/' not found
+
+(The error was parsed as 8: The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.)
+2020-06-25T18:24:52.871Z - info: [ui] storing generic credentials for 'github.com/ermiraetemi/5is18b-M143_LEE/blob' and 'ermiraetemi'
+2020-06-25T18:24:52.878Z - info: [ui] [AppStore.getAccountForRemoteURL] found generic credentials for 'github.com/ermiraetemi/5is18b-M143_LEE/blob' and 'ermiraetemi'
+2020-06-25T18:24:53.790Z - error: [ui] `git -c credential.helper= clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt` exited with an unexpected code: 128.
+stderr:
+Cloning into 'C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt'...
+fatal: repository 'https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt/' not found
+
+(The error was parsed as 8: The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.)
+2020-06-25T18:27:00.227Z - info: [ui] storing generic credentials for 'github.com/ermiraetemi/5is18b-M143_LEE/blob' and 'ermiraetemi'
+2020-06-25T18:27:00.242Z - info: [ui] [AppStore.getAccountForRemoteURL] found generic credentials for 'github.com/ermiraetemi/5is18b-M143_LEE/blob' and 'ermiraetemi'
+2020-06-25T18:27:01.428Z - info: [ui] Executing clone: git -c credential.helper= clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt (took 1.178s)
+2020-06-25T18:27:01.428Z - error: [ui] `git -c credential.helper= clone --recursive --progress -- https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt` exited with an unexpected code: 128.
+stderr:
+Cloning into 'C:\Users\ermira.etemi\Documents\GitHub\MemberList.txt'...
+fatal: repository 'https://github.com/ermiraetemi/5is18b-M143_LEE/blob/master/MemberList.txt/' not found
+
+(The error was parsed as 8: The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed.)
+2020-06-25T18:29:05.299Z - info: [main] Received possible protocol arguments: 5
+2020-06-25T18:29:05.299Z - info: [main] Processing protocol url
+2020-06-25T18:29:05.508Z - info: [main] Received possible protocol arguments: 3
+2020-06-25T18:29:05.514Z - info: [main] Processing protocol url
+2020-06-25T18:29:06.971Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - ermiraetemi (has token)
+2020-06-25T18:29:08.697Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.580s)
+2020-06-25T18:29:09.328Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - ermiraetemi (has token)
+2020-06-25T18:29:30.166Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - ermiraetemi (has token)
+2020-06-25T18:29:32.093Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.816s)
+2020-06-25T18:32:39.863Z - info: [ui] Background fetch for 2 repositories took 2.052sec
+2020-06-25T18:45:04.015Z - info: [main] Received possible protocol arguments: 5
+2020-06-25T18:45:04.015Z - info: [main] Processing protocol url
+2020-06-25T18:45:04.108Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-25T18:45:04.233Z - info: [main] Received possible protocol arguments: 3
+2020-06-25T18:45:04.239Z - info: [main] Processing protocol url
+2020-06-25T18:45:14.542Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - ermiraetemi (has token)
+2020-06-25T18:45:16.169Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.500s)
+2020-06-25T18:47:38.998Z - info: [ui] Background fetch for 2 repositories took 1.195sec
+2020-06-25T19:02:38.730Z - info: [ui] Background fetch for 2 repositories took 0.882sec
+2020-06-25T19:16:52.191Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.231s)
+2020-06-25T19:17:38.984Z - info: [ui] Background fetch for 2 repositories took 1.137sec
+2020-06-25T19:32:38.760Z - info: [ui] Background fetch for 2 repositories took 0.913sec
