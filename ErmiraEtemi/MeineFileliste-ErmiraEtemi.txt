@@ -1,0 +1,1013 @@
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 1ADE-2C4C
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE
+
+26.06.2020  15:06    <DIR>          .
+26.06.2020  15:06    <DIR>          ..
+26.06.2020  14:11    <DIR>          Java_File_IO_Examples
+26.06.2020  14:11    <DIR>          Java_JDBC_Examples
+26.06.2020  14:11    <DIR>          Java_Sort_Examples
+26.06.2020  15:06                 0 MeineFileliste-ErmiraEtemi.txt
+25.06.2020  20:29                48 MemberList.txt
+               2 Datei(en),             48 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git
+
+25.06.2020  20:29               337 config
+25.06.2020  19:36                73 description
+26.06.2020  14:42             1'728 FETCH_HEAD
+25.06.2020  20:29                23 HEAD
+25.06.2020  19:36    <DIR>          hooks
+26.06.2020  14:11             6'024 index
+25.06.2020  19:36    <DIR>          info
+25.06.2020  20:29    <DIR>          logs
+26.06.2020  14:11    <DIR>          objects
+26.06.2020  14:11                41 ORIG_HEAD
+25.06.2020  20:00    <DIR>          refs
+               6 Datei(en),          8'226 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\hooks
+
+25.06.2020  19:36    <DIR>          .
+25.06.2020  19:36    <DIR>          ..
+25.06.2020  19:36               478 applypatch-msg.sample
+25.06.2020  19:36               896 commit-msg.sample
+25.06.2020  19:36             3'327 fsmonitor-watchman.sample
+25.06.2020  19:36               189 post-update.sample
+25.06.2020  19:36               424 pre-applypatch.sample
+25.06.2020  19:36             1'638 pre-commit.sample
+25.06.2020  19:36             1'348 pre-push.sample
+25.06.2020  19:36             4'898 pre-rebase.sample
+25.06.2020  19:36               544 pre-receive.sample
+25.06.2020  19:36             1'492 prepare-commit-msg.sample
+25.06.2020  19:36             3'610 update.sample
+              11 Datei(en),         18'844 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\info
+
+25.06.2020  19:36    <DIR>          .
+25.06.2020  19:36    <DIR>          ..
+25.06.2020  19:36               240 exclude
+               1 Datei(en),            240 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\logs
+
+25.06.2020  20:29    <DIR>          .
+25.06.2020  20:29    <DIR>          ..
+26.06.2020  14:11               588 HEAD
+25.06.2020  20:29    <DIR>          refs
+               1 Datei(en),            588 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\logs\refs
+
+25.06.2020  20:29    <DIR>          .
+25.06.2020  20:29    <DIR>          ..
+25.06.2020  20:29    <DIR>          heads
+25.06.2020  20:00    <DIR>          remotes
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\logs\refs\heads
+
+25.06.2020  20:29    <DIR>          .
+25.06.2020  20:29    <DIR>          ..
+26.06.2020  14:11               390 master
+               1 Datei(en),            390 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\logs\refs\remotes
+
+25.06.2020  20:00    <DIR>          .
+25.06.2020  20:00    <DIR>          ..
+26.06.2020  14:11    <DIR>          origin
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\logs\refs\remotes\origin
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+25.06.2020  21:16               205 Java_File_IO_Examples
+25.06.2020  21:16               205 Java_File_IO_Examples2
+25.06.2020  21:16               205 Java_JDBC_Examples
+26.06.2020  14:11               410 Java_JDBC_Examples2
+26.06.2020  14:11               205 Java_JDBC_ExamplesEB
+26.06.2020  14:11               205 Java_JDBC_ExamplesEB2
+26.06.2020  14:11               205 Java_JDBC_ExamplesEE
+26.06.2020  14:11               205 Java_JDBC_ExamplesEE2
+26.06.2020  14:11               205 Java_JDBC_ExamplesLB
+26.06.2020  14:11               205 Java_JDBC_ExamplesLB2
+25.06.2020  21:16               205 Java_Sort_Examples
+25.06.2020  21:16               205 Java_Sort_Examples2
+26.06.2020  14:11               820 master
+              13 Datei(en),          3'485 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+25.06.2020  21:16    <DIR>          00
+26.06.2020  14:11    <DIR>          12
+25.06.2020  20:00    <DIR>          15
+25.06.2020  21:16    <DIR>          17
+26.06.2020  14:11    <DIR>          1a
+25.06.2020  21:16    <DIR>          1c
+25.06.2020  21:16    <DIR>          22
+26.06.2020  14:11    <DIR>          26
+25.06.2020  21:16    <DIR>          27
+25.06.2020  21:16    <DIR>          29
+25.06.2020  21:16    <DIR>          2a
+25.06.2020  21:16    <DIR>          2b
+26.06.2020  14:11    <DIR>          2d
+25.06.2020  21:16    <DIR>          2e
+26.06.2020  14:11    <DIR>          2f
+25.06.2020  21:16    <DIR>          3b
+25.06.2020  21:16    <DIR>          3e
+25.06.2020  21:16    <DIR>          3f
+26.06.2020  14:11    <DIR>          45
+25.06.2020  21:16    <DIR>          4b
+25.06.2020  21:16    <DIR>          4c
+26.06.2020  14:11    <DIR>          51
+25.06.2020  21:16    <DIR>          55
+25.06.2020  21:16    <DIR>          56
+26.06.2020  14:11    <DIR>          58
+26.06.2020  14:11    <DIR>          5b
+25.06.2020  21:16    <DIR>          5c
+26.06.2020  14:11    <DIR>          5f
+26.06.2020  14:11    <DIR>          63
+26.06.2020  14:11    <DIR>          65
+25.06.2020  21:16    <DIR>          6b
+25.06.2020  21:16    <DIR>          6c
+25.06.2020  21:16    <DIR>          6d
+26.06.2020  14:11    <DIR>          6e
+25.06.2020  21:16    <DIR>          6f
+26.06.2020  14:11    <DIR>          71
+25.06.2020  21:16    <DIR>          74
+25.06.2020  21:16    <DIR>          76
+25.06.2020  21:16    <DIR>          78
+25.06.2020  21:16    <DIR>          7b
+26.06.2020  14:11    <DIR>          7d
+26.06.2020  14:11    <DIR>          7e
+25.06.2020  21:16    <DIR>          7f
+25.06.2020  21:16    <DIR>          81
+25.06.2020  21:16    <DIR>          83
+26.06.2020  14:11    <DIR>          85
+25.06.2020  21:16    <DIR>          88
+26.06.2020  14:11    <DIR>          8c
+26.06.2020  14:11    <DIR>          8d
+26.06.2020  14:11    <DIR>          8e
+26.06.2020  14:11    <DIR>          8f
+25.06.2020  21:16    <DIR>          93
+26.06.2020  14:11    <DIR>          94
+25.06.2020  21:16    <DIR>          9b
+25.06.2020  21:16    <DIR>          9c
+25.06.2020  21:16    <DIR>          9d
+26.06.2020  14:11    <DIR>          9e
+25.06.2020  21:16    <DIR>          9f
+25.06.2020  21:16    <DIR>          a0
+25.06.2020  21:16    <DIR>          a2
+25.06.2020  21:16    <DIR>          a3
+25.06.2020  21:16    <DIR>          a6
+26.06.2020  14:11    <DIR>          a7
+25.06.2020  21:16    <DIR>          aa
+26.06.2020  14:11    <DIR>          ab
+25.06.2020  21:16    <DIR>          ac
+26.06.2020  14:11    <DIR>          af
+26.06.2020  14:11    <DIR>          b0
+25.06.2020  21:16    <DIR>          b2
+25.06.2020  21:16    <DIR>          b6
+25.06.2020  21:16    <DIR>          b7
+26.06.2020  14:11    <DIR>          b9
+25.06.2020  21:16    <DIR>          bc
+26.06.2020  14:11    <DIR>          c0
+25.06.2020  21:16    <DIR>          c6
+25.06.2020  21:16    <DIR>          c7
+26.06.2020  14:11    <DIR>          cc
+25.06.2020  21:16    <DIR>          ce
+25.06.2020  21:16    <DIR>          d2
+25.06.2020  21:16    <DIR>          d4
+25.06.2020  21:16    <DIR>          e0
+25.06.2020  21:16    <DIR>          e3
+26.06.2020  14:11    <DIR>          e4
+25.06.2020  21:16    <DIR>          e7
+26.06.2020  14:11    <DIR>          e8
+26.06.2020  14:11    <DIR>          ec
+25.06.2020  21:16    <DIR>          ed
+25.06.2020  21:16    <DIR>          ef
+26.06.2020  14:11    <DIR>          f1
+25.06.2020  21:16    <DIR>          f2
+25.06.2020  21:16    <DIR>          f5
+25.06.2020  20:00    <DIR>          f7
+25.06.2020  21:16    <DIR>          fe
+25.06.2020  19:36    <DIR>          info
+25.06.2020  19:36    <DIR>          pack
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\00
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               700 5f819fdff2f5e0cb401825981c76049bb5d626
+               1 Datei(en),            700 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\12
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               560 a511b8bbbb65b818d7d902c5e270a5ad406d42
+               1 Datei(en),            560 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\15
+
+25.06.2020  20:00    <DIR>          .
+25.06.2020  20:00    <DIR>          ..
+25.06.2020  20:00               562 37e295e9fe3094ff34db8d1ddfbccda0d825e8
+               1 Datei(en),            562 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\17
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               823 ad486f798f78685a702aa6e8810ad0ad9e4617
+               1 Datei(en),            823 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\1a
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               643 d64d92b01784c92188e856f4dc6ebc895207cb
+               1 Datei(en),            643 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\1c
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               159 bf8d881c0ea6390ceae0931ed7fbb19b5c1426
+               1 Datei(en),            159 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\22
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               328 5698423cc793d673ae179d74bc5094af58f7b1
+               1 Datei(en),            328 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\26
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               816 36a52d4b43f461355cf800f7ccf3a986643d67
+26.06.2020  14:11               644 d615de14792024872e892eb7b8c932fddacb18
+               2 Datei(en),          1'460 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\27
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               347 2c444a42acd696be7ee75eaa2dfd6e37333c17
+               1 Datei(en),            347 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\29
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               397 33d6e223467003d6ac64b1aa53620d8e12f2a7
+25.06.2020  21:16               642 3b2888796501136fed457499c01d2d9538c83b
+25.06.2020  21:16               191 8228e67c6096afcdf1971958e507acfe37e86f
+               3 Datei(en),          1'230 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\2a
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               642 b9b468ef51ce2b2b8cff74805086f04af69590
+               1 Datei(en),            642 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\2b
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               541 3150e79cd9a68457d011be71a720492925e49d
+               1 Datei(en),            541 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\2d
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               167 3152d5b823face9d886e2b35e917587ca27e8c
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\2e
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               381 bcc94f6a0b55d7908991f1af0a680168cba4eb
+               1 Datei(en),            381 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\2f
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               816 e8a477075e7abbfe2b5b0817312e34d4083a1d
+               1 Datei(en),            816 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\3b
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               567 1f68650d58b377bfb4bfb16cf54204623c1fc8
+               1 Datei(en),            567 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\3e
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               343 d9c639883165ad0791679facc2d27ee7cad470
+               1 Datei(en),            343 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\3f
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               353 27f69076edcf9fc3b96b595e0e8e7242b1942d
+               1 Datei(en),            353 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\45
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               640 cf5e0a65bbfa4635ac31d4ce60f2b6250226b1
+               1 Datei(en),            640 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\4b
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               107 d40487816072cd27f74e426c9dba5cc42171a6
+               1 Datei(en),            107 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\4c
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               391 b0d5c02041b54670201cf2e54f10ff4359bca1
+               1 Datei(en),            391 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\51
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               167 bea7211243294f44c8f72e1a81b09a14033928
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\55
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               393 64f51b3b5b5c5b8f3ff1182e24a8ae179f03f8
+25.06.2020  21:16               190 9e378c091c741de6bad03381511f8a2df94833
+               2 Datei(en),            583 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\56
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               453 3d275186cd4be025ba73c2929c274bd670a2b7
+               1 Datei(en),            453 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\58
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+25.06.2020  21:16               332 4b0d5700aa1455411492efc40f02d001b08b8f
+26.06.2020  14:11               168 bf0fe4a4c29f9ccd678f662b522fdb8e8e683b
+               2 Datei(en),            500 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\5b
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               640 0174bdd1ed68712797150059858e1e753638ca
+               1 Datei(en),            640 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\5c
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               673 22e6229bb330949ce91d997ef7143f839e9953
+               1 Datei(en),            673 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\5f
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               820 583d6146dbcec252f3c2da599e39d169984a39
+               1 Datei(en),            820 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\63
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               819 0ae6e60e2cbd22ef27c292c1f3ebc0a6ec879b
+               1 Datei(en),            819 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\65
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               628 d09fb6886ad3631e79854ce414b45ca44c817e
+               1 Datei(en),            628 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\6b
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               440 93a7cdd7dc82100da3871e8ccdcf400607889b
+               1 Datei(en),            440 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\6c
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               104 869b4604ca50d092a79d47782115ceccb70cb5
+               1 Datei(en),            104 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\6d
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               410 6e1fd333413889f27de0873f177eedade34a72
+               1 Datei(en),            410 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\6e
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               565 0eeaeab6fec0736341b11164f09d0beb8eda9d
+               1 Datei(en),            565 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\6f
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               563 b39f0b09686c6e2509218d34afa4d7b98ccb60
+25.06.2020  21:16               536 dd1494866a77eeea698840b338eae4fc6d09ae
+               2 Datei(en),          1'099 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\71
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               650 d7ab655658beb5530d9bf4cfcdaa402a55b62b
+               1 Datei(en),            650 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\74
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               641 1791e952eab5c70c4be6ab80b53c9622acc2cc
+               1 Datei(en),            641 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\76
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               465 0ae90bc826f7ea4260b2c48235905ed96fa4cb
+25.06.2020  21:16               624 2279ab4d4a973855c1249f666d359e77de553d
+               2 Datei(en),          1'089 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\78
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               579 b11a8e6c5251dbebacef90d76f50f88dc86d6b
+               1 Datei(en),            579 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\7b
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               566 c69bddc862489e5473c103c7cf997822a5b370
+               1 Datei(en),            566 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\7d
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               167 50d074214a6882ccecc200c2cf585c9e4df296
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\7e
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               637 1f688b43fec12aa1a7c8e8f3753ec1594d095b
+               1 Datei(en),            637 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\7f
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               626 fcdec8f6dc1f0731fbbbe5e7eb472cd795b239
+               1 Datei(en),            626 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\81
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               352 99354eeb3a082389d268849623f9b5adfe0491
+               1 Datei(en),            352 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\83
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               439 d0a74297dcb6497dac8cb6753dbaddaf73f9e6
+               1 Datei(en),            439 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\85
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               569 81ef633e1386add6ad37186a2fa42c84b91783
+25.06.2020  21:16               635 e9c3879fcbd9a9e678b2b071c1b47bc664f296
+               2 Datei(en),          1'204 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\88
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               609 dd6452f5559bead1e18cc8345fa1148668bf94
+               1 Datei(en),            609 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\8c
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+25.06.2020  21:16               167 0f13a8399f86053a5c2224ddd54ce92c23b54d
+26.06.2020  14:11               167 21eee7e8dcbd71ca43ac52dd552d26299c55ef
+               2 Datei(en),            334 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\8d
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               167 d248a1d784523ce56b8063748c6c7046fd80dd
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\8e
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               637 d830944e930dbd06c20bf6cab522927571edfd
+               1 Datei(en),            637 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\8f
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               564 9762eea447356696112015c580f09d1a681554
+               1 Datei(en),            564 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\93
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               625 f5e6dd2d9b8f0f7d1cbe0e59c6b4cea5e660d0
+               1 Datei(en),            625 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\94
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               569 ee9761303137c7ca25f2a0aa35894432b95bed
+               1 Datei(en),            569 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\9b
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               104 22b371edd4f8f52055d1f890f72db83965745c
+               1 Datei(en),            104 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\9c
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               624 1a2c4601cf7d51063d4c7ab99681647316983f
+               1 Datei(en),            624 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\9d
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               564 ae34575cbeaadd6091ab3a6a8ee1a2dedce907
+               1 Datei(en),            564 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\9e
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               643 a27ec7fdb9d49feb583f302a2dd73c576964ca
+26.06.2020  14:11               817 f56f6f5d5157886cabf1a65b0edd664b9f75ec
+               2 Datei(en),          1'460 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\9f
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               611 8a7da9f391b25cbffc51630dfe1bcef5db2f64
+25.06.2020  21:16               868 eaeca04838bfd8d10246d5fb27e7cb801ab0d0
+               2 Datei(en),          1'479 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\a0
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               373 bbe598ea2d2efa55449b0d65a56951906f27d3
+               1 Datei(en),            373 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\a2
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               302 528d4f24a8b36b1c89500b5c1c392d8e773268
+               1 Datei(en),            302 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\a3
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               187 c51976e99366781c42d0b723604bb3b2d788c8
+               1 Datei(en),            187 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\a6
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               566 57ef41e6082364d644699f385b40748f8d6dda
+25.06.2020  21:16               781 e4f7d92bf447660d11804b436fa57e1e2b6b4e
+               2 Datei(en),          1'347 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\a7
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               819 575e7e372081a9b6f164adb1514ef1a3c2110a
+25.06.2020  21:16               285 ce5df83aafb10f347bf6d426481f56fb296589
+25.06.2020  21:16               447 d460ccc7451bc4441bd62b068c5ca84e7fa144
+               3 Datei(en),          1'551 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\aa
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               166 cd70d998e336b844119c6281f16153c947c207
+               1 Datei(en),            166 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\ab
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               167 14bf2b4c21ab88fb710e9f51783303e17b6ac4
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\ac
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               212 d36e4f9fa6f9bab9082e8295e63b3918b9fe34
+25.06.2020  21:16               628 f5b0d23be5b7a7d6a6d1ef708dc84e6ba83c23
+25.06.2020  21:16               222 fa4339f916f88932fdfa524de438b09676cd33
+               3 Datei(en),          1'062 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\af
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               663 058737a587a23129c6357a6a92ece667acf6eb
+               1 Datei(en),            663 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\b0
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               574 cdb7ca5724b40f36ec9339d21259e95d6dbd99
+               1 Datei(en),            574 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\b2
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               563 cde4400a827651e1b05db56f3dd78d05500d16
+               1 Datei(en),            563 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\b6
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               457 e280caf330f7b86d3a3e5b8d7400b609b7ae12
+               1 Datei(en),            457 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\b7
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               523 fec22f0ba26b4c6a18b0c85a6dc33ece7cf8c8
+               1 Datei(en),            523 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\b9
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               167 25cc1c87ed799600c535810b10f4507f957962
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\bc
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               167 0b42334f4c25b70835675fdcd8a989b0c5ba80
+25.06.2020  21:16               344 bd9b61d174e3a1f0a7685b107a95d059c3280d
+               2 Datei(en),            511 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\c0
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               567 513e6897b9a0b1158f8e450aa7f088fe34765c
+               1 Datei(en),            567 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\c6
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               596 1c7e2130ce147aac093fdc28f1215ea4f00ba5
+25.06.2020  20:29               569 dfe0a7eadc6fc1390e5fdb4d3a41d9e303ac4f
+               2 Datei(en),          1'165 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\c7
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               381 2c6348f5e204f18215b7afef8bc3f12da30636
+25.06.2020  21:16               327 74f72a6ae151444d0ba5b1d145ab4c2363f552
+               2 Datei(en),            708 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\cc
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               542 317f145da354f570442d6948177590f5bd08b4
+               1 Datei(en),            542 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\ce
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               473 62828b168c8b8478885c797cb3ea5f3860aad0
+               1 Datei(en),            473 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\d2
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               134 a6845569a54727cdc42785a9f062db99a78353
+               1 Datei(en),            134 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\d4
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               868 35725f345d26d1ebca954956f3c0c1d346ed19
+25.06.2020  21:16               614 77e62e231344437d6dfb267a7075a8f3a90897
+               2 Datei(en),          1'482 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\e0
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               568 7edf42347e9ba50142ac237ca8174f415f7f22
+               1 Datei(en),            568 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\e3
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               282 5bffe3fa3216155f5a2d94385762a8da151b84
+               1 Datei(en),            282 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\e4
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               820 0c79cd4731ff03a712a3c0499e86dfebf595ae
+25.06.2020  21:16               452 2dbf1dd2c52cd6dafe1479bc481e2a30a8e9eb
+25.06.2020  21:16               635 9623319a66960ce28b37ef45d5b47f8041e760
+               3 Datei(en),          1'907 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\e7
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               166 34ab7c7de61f081e868077a9314e659675152b
+               1 Datei(en),            166 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\e8
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+25.06.2020  21:16               501 bc92f9648f80b6d5f466c83f8a94d806161715
+26.06.2020  14:11               564 f58ec55df6c5f10702afee2db4a0a95e66a0b9
+               2 Datei(en),          1'065 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\ec
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+25.06.2020  20:00                59 4b318b721ba5c0da736c98a1db978364d7ab63
+26.06.2020  14:11               570 c5d7db8c6306878bf60b280456a3ff9e9ef866
+               2 Datei(en),            629 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\ed
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               642 96daef1d528ae08309544788f4fe579539f496
+               1 Datei(en),            642 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\ef
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               729 83dca71c30a2495d1830b0128b94afedda5161
+               1 Datei(en),            729 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\f1
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11               573 6324e6fb4c64f25abb4c2bf9ecb0cbaae03e1f
+               1 Datei(en),            573 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\f2
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               795 300b888d205d09a9de51f01d3930d56376236d
+               1 Datei(en),            795 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\f5
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               183 82be0df90932c0bb45c27cbcb859dcd3b12b89
+25.06.2020  21:16               623 8c0cd5a9a6a0a899d72b54709fb65ced0102ed
+               2 Datei(en),            806 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\f7
+
+25.06.2020  20:00    <DIR>          .
+25.06.2020  20:00    <DIR>          ..
+25.06.2020  20:00                61 8fcb0e9af7a1f4927544d07890cca1769edc4d
+               1 Datei(en),             61 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\fe
+
+25.06.2020  21:16    <DIR>          .
+25.06.2020  21:16    <DIR>          ..
+25.06.2020  21:16               661 c06d0d5218635023ad8d746ab35c8bff016d44
+               1 Datei(en),            661 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\info
+
+25.06.2020  19:36    <DIR>          .
+25.06.2020  19:36    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\objects\pack
+
+25.06.2020  19:36    <DIR>          .
+25.06.2020  19:36    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\refs
+
+25.06.2020  20:00    <DIR>          .
+25.06.2020  20:00    <DIR>          ..
+26.06.2020  14:11    <DIR>          heads
+25.06.2020  20:00    <DIR>          remotes
+25.06.2020  19:36    <DIR>          tags
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\refs\heads
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11                41 master
+               1 Datei(en),             41 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\refs\remotes
+
+25.06.2020  20:00    <DIR>          .
+25.06.2020  20:00    <DIR>          ..
+26.06.2020  14:11    <DIR>          origin
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\refs\remotes\origin
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+25.06.2020  21:16                41 Java_File_IO_Examples
+25.06.2020  21:16                41 Java_File_IO_Examples2
+25.06.2020  21:16                41 Java_JDBC_Examples
+26.06.2020  14:11                41 Java_JDBC_Examples2
+26.06.2020  14:11                41 Java_JDBC_ExamplesEB
+26.06.2020  14:11                41 Java_JDBC_ExamplesEB2
+26.06.2020  14:11                41 Java_JDBC_ExamplesEE
+26.06.2020  14:11                41 Java_JDBC_ExamplesEE2
+26.06.2020  14:11                41 Java_JDBC_ExamplesLB
+26.06.2020  14:11                41 Java_JDBC_ExamplesLB2
+25.06.2020  21:16                41 Java_Sort_Examples
+25.06.2020  21:16                41 Java_Sort_Examples2
+26.06.2020  14:11                41 master
+              13 Datei(en),            533 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\.git\refs\tags
+
+25.06.2020  19:36    <DIR>          .
+25.06.2020  19:36    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\Java_File_IO_Examples
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11             1'233 @README.txt
+26.06.2020  14:11               838 ByteArrToInputStream.java
+26.06.2020  14:11             1'055 ByteWriteToFile.java
+26.06.2020  14:11               601 ClassLoaderFileLoading.java
+26.06.2020  14:11               327 FileListFromFolder.java
+26.06.2020  14:11               328 FilesListFromFolder.java
+26.06.2020  14:11             1'005 FileToByteArray.java
+26.06.2020  14:11             1'056 MyByteArrayToReader.java
+26.06.2020  14:11               655 MyFileFilter.java
+26.06.2020  14:11               262 MyFileLastModified.java
+26.06.2020  14:11             1'318 MyFileOperations.java
+26.06.2020  14:11               855 MyFilePermissions.java
+26.06.2020  14:11             1'021 MyFileReadBybis.java
+26.06.2020  14:11               230 MyFileUrl.java
+26.06.2020  14:11               796 MyFileXmlStore.java
+26.06.2020  14:11               678 MyFilteredFileList.java
+26.06.2020  14:11               943 MyIstoBr.java
+26.06.2020  14:11             2'817 MyObjectFileStore.java
+26.06.2020  14:11               799 MyPropertyFileStore.java
+26.06.2020  14:11             1'180 MyTempDelete.java
+26.06.2020  14:11               836 MyTempFileWrite.java
+26.06.2020  14:11               513 MyTmpFile.java
+26.06.2020  14:11               828 ReadFromConsole.java
+26.06.2020  14:11               748 ReadLinesFromFile.java
+26.06.2020  14:11             1'067 WriteToFile.java
+              25 Datei(en),         21'989 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\Java_JDBC_Examples
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11             1'611 @README.txt
+26.06.2020  14:11               248 @README2.txt
+26.06.2020  14:11               849 JdbcConnection.java
+26.06.2020  14:11             1'639 MyAutoGeneratedKeys.java
+26.06.2020  14:11             1'350 MyBatchCallableStatement.java
+26.06.2020  14:11             1'733 MyBatchPreparedStmt.java
+26.06.2020  14:11             1'635 MyBlobInsert.java
+26.06.2020  14:11             2'176 MyBlobRead.java
+26.06.2020  14:11               806 MyConnWithProperties.java
+26.06.2020  14:11             1'487 MyCursorCallableStmt.java
+26.06.2020  14:11             1'239 MyDatabaseMetadata.java
+26.06.2020  14:11             1'658 MyExecuteMethod.java
+26.06.2020  14:11             1'443 MyFunctionCallableStmt.java
+26.06.2020  14:11             1'446 MyOutparmCallableStmt.java
+26.06.2020  14:11             1'552 MyPreparedStatement.java
+26.06.2020  14:11             1'656 MyPrepStmtResltSet.java
+26.06.2020  14:11             1'291 MyQueryUpdate.java
+26.06.2020  14:11             1'194 MyResultSetEx.java
+26.06.2020  14:11             1'507 MyResultSetMetadata.java
+26.06.2020  14:11             1'748 MyScrollableResultSetEx.java
+26.06.2020  14:11             1'255 MySimpleCallableStatement.java
+26.06.2020  14:11             1'685 MyStatementBatchUpdate.java
+26.06.2020  14:11             1'533 MyUpdatableResultSet.java
+              23 Datei(en),         32'741 Bytes
+
+ Verzeichnis von C:\Users\ermira.etemi\Documents\GitHub\5is18b-M143_LEE\Java_Sort_Examples
+
+26.06.2020  14:11    <DIR>          .
+26.06.2020  14:11    <DIR>          ..
+26.06.2020  14:11             1'044 MyBubbleSort.java
+26.06.2020  14:11               748 MyInsertionSort.java
+26.06.2020  14:11             1'904 MyMergeSort.java
+26.06.2020  14:11             2'065 MyQuickSort.java
+26.06.2020  14:11               787 MySelectionSort.java
+               5 Datei(en),          6'548 Bytes
+
+     Anzahl der angezeigten Dateien:
+             220 Datei(en),        150'588 Bytes
+             335 Verzeichnis(se), 265'222'283'264 Bytes frei

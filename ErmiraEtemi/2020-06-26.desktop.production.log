@@ -1,0 +1,14 @@
+2020-06-26T12:11:35.478Z - info: [ui] [AppStore] loading 2 repositories from store
+2020-06-26T12:11:35.480Z - info: [ui] [AppStore] found account: ermiraetemi (ermiraetemi)
+2020-06-26T12:11:36.823Z - info: [ui] launching: 2.5.3 (Windows 10.0.18363)
+2020-06-26T12:11:36.824Z - info: [ui] execPath: 'C:\Users\ermira.etemi\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe'
+2020-06-26T12:11:38.218Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.627s)
+2020-06-26T12:11:40.041Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.224s)
+2020-06-26T12:11:48.555Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:11:56.098Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_LEE - ermiraetemi (has token)
+2020-06-26T12:11:57.971Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.707s)
+2020-06-26T12:13:36.741Z - info: [ui] Background fetch for 2 repositories took 1.141sec
+2020-06-26T12:28:37.632Z - info: [ui] Background fetch for 2 repositories took 0.878sec
+2020-06-26T12:42:04.486Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.397s)
+2020-06-26T12:43:37.654Z - info: [ui] Background fetch for 2 repositories took 0.825sec
+2020-06-26T12:58:38.084Z - info: [ui] Background fetch for 2 repositories took 1.212sec

@@ -1,0 +1,52 @@
+2020-06-19T13:02:49.547Z - info: [main] Received possible protocol arguments: 2
+2020-06-19T13:02:49.577Z - error: [main] Malformed launch arguments received: C:\Users\ermira.etemi\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe,--squirrel-firstrun
+2020-06-19T13:02:50.676Z - info: [ui] [AppStore] loading 0 repositories from store
+2020-06-19T13:02:50.726Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T13:02:50.733Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T13:02:50.904Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T13:02:51.410Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-19T13:02:51.411Z - info: [ui] execPath: 'C:\Users\ermira.etemi\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T13:02:51.412Z - info: [ui] Opt in reported.
+2020-06-19T13:02:51.448Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T13:02:52.376Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2020-06-19T13:02:52.378Z - info: [ui] [SignInStore] initializing OAuth flow
+2020-06-19T13:02:52.379Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo%20user%20workflow&state=3d787147-aebd-4db4-a4d9-c7295da65a13
+2020-06-19T13:02:52.382Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2020-06-19T13:02:52.427Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.344s)
+2020-06-19T13:02:52.835Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T13:03:09.189Z - info: [main] Received possible protocol arguments: 5
+2020-06-19T13:03:09.189Z - info: [main] Processing protocol url
+2020-06-19T13:03:09.209Z - info: [ui] [Dispatcher] requesting authenticated user
+2020-06-19T13:03:09.214Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T13:03:09.278Z - info: [main] Received possible protocol arguments: 3
+2020-06-19T13:03:09.279Z - info: [main] Processing protocol url
+2020-06-19T13:03:09.975Z - info: [ui] [SignInStore] account resolved
+2020-06-19T13:03:09.975Z - info: [ui] [AppStore] adding account ermiraetemi (ermiraetemi) to store
+2020-06-19T13:03:09.991Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2020-06-19T13:03:10.045Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T13:03:10.235Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T13:03:12.258Z - info: [ui] [Welcome] advancing to step: UsageOptOut
+2020-06-19T13:03:14.377Z - info: [ui] Opt in reported.
+2020-06-19T13:03:14.390Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T13:03:46.059Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/ermiraetemi/hello-world.git - ermiraetemi (has token)
+2020-06-19T13:03:49.322Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/ermiraetemi/hello-world.git C:\Users\ermira.etemi\Documents\GitHub\hello-world (took 3.139s)
+2020-06-19T13:03:49.415Z - info: [ui] [AppStore] adding repository at C:\Users\ermira.etemi\Documents\GitHub\hello-world to store
+2020-06-19T13:03:56.936Z - info: [ui] Executing isUsingLFS: git lfs track (took 7.386s)
+2020-06-19T13:03:57.350Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-19T13:03:58.711Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.490s)
+2020-06-19T13:04:04.803Z - info: [main] opening in browser: https://github.com/ermiraetemi/hello-world/issues/new/choose
+2020-06-19T13:04:13.194Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-19T13:04:21.535Z - info: [main] opening in browser: https://help.github.com/articles/set-up-git/#setting-up-git
+2020-06-19T13:07:25.913Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-19T13:07:25.914Z - info: [ui] [AppStore] found account: ermiraetemi (ermiraetemi)
+2020-06-19T13:07:26.130Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-19T13:07:27.171Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-19T13:07:27.171Z - info: [ui] execPath: 'C:\Users\ermira.etemi\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T13:07:27.828Z - info: [ui] Stats reported.
+2020-06-19T13:07:34.472Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-19T13:07:34.596Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-19T13:38:13.523Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-19T13:38:13.525Z - info: [ui] [AppStore] found account: ermiraetemi (ermiraetemi)
+2020-06-19T13:38:15.092Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-19T13:38:15.093Z - info: [ui] execPath: 'C:\Users\ermira.etemi\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T13:38:38.719Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.370s)
